@@ -1,0 +1,77 @@
+[
+  {
+    "thought": "Focus on New Skills",
+    "description": "Thinking about learning programming to enhance career opportunities.",
+    "weight": 3
+  },
+  {
+    "thought": "Regret Past Decisions",
+    "description": "Ruminating about missed opportunities from years ago.",
+    "weight": -2
+  },
+  {
+    "thought": "Plan for Tomorrow",
+    "description": "Setting goals for tomorrow's work and prioritizing key tasks.",
+    "weight": 2
+  },
+  {
+    "thought": "Overthink Small Details",
+    "description": "Worrying about trivial matters that don’t impact overall outcome.",
+    "weight": -1
+  },
+  {
+    "thought": "Reflect on Progress",
+    "description": "Considering recent personal growth and areas for improvement.",
+    "weight": 2
+  },
+  {
+    "thought": "Dwell on Breakup",
+    "description": "Revisiting painful memories of a past relationship.",
+    "weight": -3
+  },
+  {
+    "thought": "Create Budget Plan",
+    "description": "Organizing a plan for managing monthly expenses and saving more.",
+    "weight": 3
+  },
+  {
+    "thought": "Procrastinate Important Tasks",
+    "description": "Putting off tasks in favor of browsing social media.",
+    "weight": -2
+  },
+  {
+    "thought": "Brainstorm New Ideas",
+    "description": "Thinking of creative ideas for a project or problem.",
+    "weight": 1
+  },
+  {
+    "thought": "Fear of Failure",
+    "description": "Anxiety about failing and its impact on future goals.",
+    "weight": -3
+  },
+  {
+    "thought": "Plan a Vacation",
+    "description": "Researching travel destinations for upcoming time off.",
+    "weight": 1
+  },
+  {
+    "thought": "Doubt Own Abilities",
+    "description": "Questioning whether you're skilled enough for the task.",
+    "weight": -2
+  },
+  {
+    "thought": "Practice Mindfulness Techniques",
+    "description": "Spending time focusing on breath and present awareness.",
+    "weight": 2
+  },
+  {
+    "thought": "Reminisce Old Times",
+    "description": "Thinking nostalgically about the past instead of the present.",
+    "weight": -1
+  },
+  {
+    "thought": "Plan Fitness Routine",
+    "description": "Creating a workout schedule for health and strength improvement.",
+    "weight": 3
+  }
+]
